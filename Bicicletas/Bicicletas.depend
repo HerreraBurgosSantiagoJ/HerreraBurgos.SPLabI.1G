@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1593471781 source:c:\users\santi\desktop\herreraburgospplab2\herreraburgos.splabi.1g\bicicletas\src\sbikes.c
+	"../Heathers/sBike.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1593471904 c:\users\santi\desktop\herreraburgospplab2\herreraburgos.splabi.1g\bicicletas\heathers\sbike.h
+
